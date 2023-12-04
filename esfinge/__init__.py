@@ -1,7 +1,6 @@
 import os
 
-__version__ = '0.0.5'
-__version_info__ = (0, 0, 5)
+__version__ = '0.0.7'
 
 def setup(app):
     theme_path = os.path.abspath(os.path.dirname(__file__))

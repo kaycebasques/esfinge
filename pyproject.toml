@@ -1,5 +1,6 @@
 [project]
-name = "esfinge"
+name = 'esfinge'
+version = '0.0.7'
 
-[project.entry-points."sphinx.html_themes"]
-esfinge = "esfinge"
+[project.entry-points.'sphinx.html_themes']
+esfinge = 'esfinge'
