@@ -1,0 +1,5 @@
+[project]
+name = "esfinge"
+
+[project.entry-points."sphinx.html_themes"]
+esfinge = "esfinge"

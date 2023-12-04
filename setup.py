@@ -1,5 +1,8 @@
 import setuptools
 
 setuptools.setup(
-    version='0.0.4'
+    name='esfinge',
+    version='0.0.5',
+    packages=['esfinge'],
+    install_requires=[]
 )
